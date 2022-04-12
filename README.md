@@ -18,7 +18,7 @@
   
 <div align="center">
    <a href="https://www.linkedin.com/in/matheus-fausto-4a3759b5" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:niinyade@icloud.com"><img src="https://img.shields.io/badge/-icloud-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
+  <a href="mailto:niinyade@icloud.com"><img src="https://img.shields.io/badge/-niinyade@icloud.com-%23333?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
   <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/-Nyade4194-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/niinyade/niinyade/blob/output/github-contribution-grid-snake.svg)
