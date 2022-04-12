@@ -2,7 +2,7 @@
 
 - 💻 I’m not currently working
 - 👩‍💻 I’m currently learning Swift
-- 👤 Pronouns: They/Them
+- 👤 Pronouns: She/Her or They/Them
 
 <div align="center">
   <a href="https://github.com/niinyade">
